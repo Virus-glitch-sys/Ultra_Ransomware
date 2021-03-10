@@ -1,0 +1,15 @@
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.exe
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.deps.json
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.runtimeconfig.json
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.runtimeconfig.dev.json
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.dll
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\bin\Debug\netcoreapp3.1\Ultra_Ransomware.pdb
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.csprojAssemblyReference.cache
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.csproj.GenerateResource.cache
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.AssemblyInfoInputs.cache
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.AssemblyInfo.cs
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.csproj.CoreCompileInputs.cache
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.dll
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.pdb
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.genruntimeconfig.cache
+C:\Users\Joash\Dropbox\My PC (MyLaptopisamazing)\Desktop\MyProjects\Malwares\Ultra_Ransomware\obj\Debug\netcoreapp3.1\Ultra_Ransomware.UltraShow.resources
